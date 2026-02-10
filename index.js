@@ -6,4 +6,4 @@ var multiplication = 5;
 multiplication = multiplication * 7;
 var division = 6;
 division = division / 2;
-document.getElementById('result').innerHTML = multiplication; 
+document.getElementById('result').innerHTML = multiplication;
